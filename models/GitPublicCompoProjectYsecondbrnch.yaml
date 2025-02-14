@@ -20,4 +20,6 @@ oneOf:
         type: string
         x-stoplight:
           id: eacjgc7t54tly
+    x-stoplight:
+      id: ozlc2ipdy9lbg
 type: object
