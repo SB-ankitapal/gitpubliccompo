@@ -1,7 +1,8 @@
 title: GitPublicCompoProjectY
 x-stoplight:
   id: yjdp4co3zdp9e
-allOf:
+description: GitPublicCompoProject Y____Public
+oneOf:
   - properties:
       id:
         type: string
@@ -20,4 +21,3 @@ allOf:
         x-stoplight:
           id: eacjgc7t54tly
 type: object
-description: GitPublicCompoProject Y____Public
