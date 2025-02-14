@@ -4,7 +4,7 @@
     "id": "8ycp76xvi1b4d"
   },
   "description": "all of json",
-  "allOf": [
+  "anyOf": [
     {
       "properties": {
         "id": {
