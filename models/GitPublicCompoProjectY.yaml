@@ -1,0 +1,23 @@
+title: GitPublicCompoProjectY
+x-stoplight:
+  id: yjdp4co3zdp9e
+allOf:
+  - properties:
+      id:
+        type: string
+        x-stoplight:
+          id: epqjy9uyajm3u
+      name:
+        type: string
+        x-stoplight:
+          id: x8x9ke6xpniai
+      address:
+        type: string
+        x-stoplight:
+          id: 39xh18t5rwu1a
+      contact:
+        type: string
+        x-stoplight:
+          id: eacjgc7t54tly
+type: object
+description: GitPublicCompoProject Y____Public

@@ -1,0 +1,26 @@
+{
+  "title": "GitPublicProjectJ",
+  "x-stoplight": {
+    "id": "8ycp76xvi1b4d"
+  },
+  "description": "all of json",
+  "allOf": [
+    {
+      "properties": {
+        "id": {
+          "type": "number",
+          "x-stoplight": {
+            "id": "8z7r5qxhbxvnl"
+          }
+        },
+        "name": {
+          "type": "string",
+          "x-stoplight": {
+            "id": "a5ee66qh27ms0"
+          }
+        }
+      }
+    }
+  ],
+  "type": "object"
+}
